@@ -1,1 +1,1 @@
-linuxserver/emulatorjs:latest
+linuxserver/emulatorjs:1.9.2
