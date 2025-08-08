@@ -1,1 +1,2 @@
 linuxserver/emulatorjs:1.9.2
+kasmweb/chrome:1.16.1-rolling-weekly
